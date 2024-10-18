@@ -1,0 +1,6 @@
+[package]
+name = "_18_Functional_programing_18_1_Closure"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
